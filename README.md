@@ -1,3 +1,16 @@
+# World Political Division App  
+PROBLEM STATEMENT-
+Designing a frontend UI interface using react for displaying continents, countries, and their respective further details and information in tabular format. Made use of Apollo client for retrieving data from  ` https://countries.trevorblades.com `    (backend) for displaying purpose.
+
+ The first page displays options for either viewing continents or Languages spoken. 
+
+   i) On choosing Continents - the complete continent list is displayed where rows are further clickable and on clicking on the particular continent further list of countries belonging to that continent can be viewed, Further the countries are also clickable and on clicking on the particular country we can view countries details in a card format which has information like its capital, currency. There are again two options further to view languages spoken in that country and to view states of that particular country.
+
+   ii) The Second, the option allows us to get the complete languages list spoken throughout world.
+ 
+
+# Deployed Version of this App - ` https://world-political-division.herokuapp.com/ `
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
