@@ -10,7 +10,10 @@ Designing a frontend UI interface using react for displaying continents, countri
  
 
 # Deployed Version of this App - 
-   https://world-political-division.herokuapp.com/ 
+
+(New Deployed Version) -> https://world-political-division.onrender.com/
+
+(Depricated Version) ->   https://world-political-division.herokuapp.com/ 
 
 # Getting Started with Create React App
 
